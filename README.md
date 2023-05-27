@@ -43,7 +43,7 @@ Welcome to Tambola Ticket Generator! This project focuses on the backend impleme
 ### 5. Start the application
    npm start
 ### 6. Access the application in your browser:
-   ``` http://localhost:3000 ```
+   ``` http://localhost:4000 ```
    
 ## License
 This project is licensed under the MIT License.
